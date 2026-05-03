@@ -1,0 +1,1 @@
+This is a new text file for the new branch "branch_for_work"
